@@ -1,5 +1,5 @@
 # Global-Language-Exchange-
-A platform for users around the world to practice and exchange languages.
+A platform for users around the world to practice and exchange languages. Inspired by languange learing aspirations and nurturuing global relationships.
 
 ################
 Project Overview
